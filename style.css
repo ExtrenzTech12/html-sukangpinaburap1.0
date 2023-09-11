@@ -1,0 +1,48 @@
+body 
+{
+background-repeat: repeat;
+background-attachment: fixed;
+background-size: 100%;
+background-image: url('IMAGES/background.avif')
+
+}
+
+.picture 
+{color: black;
+ text-align: center;   
+ width: 60%;
+ margin-left: 2%;
+ margin-top: 4%;
+ font-family:'Libre Baskerville', serif;
+}
+
+.SukangPinaburapIMGs {border: 5px solid green;
+ height: 630px; width: 900px;
+}    
+
+.ClosingPart {text-align: center; font-size: 1.5rem;}
+
+button {
+    background-color: green;
+    border: none;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    padding: 10px 50px;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 10px;
+    color: white;
+
+}
+
+h2 {text-transform:uppercase;font-size: 2rem; font-weight: bold;}
+#skppagebanner{color: black; font-size: 3.5rem; text-transform: none;text-align: center;font-family: cursive;}
+h1 {text-transform: uppercase;font-size: 2.5rem;}
+
+
+
+
+
+
+
+
